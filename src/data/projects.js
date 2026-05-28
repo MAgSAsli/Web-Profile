@@ -23,6 +23,7 @@ export const projects = [
     techStack: ['React.js', 'Express.js', 'PostgreSQL / Supabase', 'MidTrans'],
     githubUrl: 'https://github.com/MAgSAsli/OutVentura',
     demoUrl: 'https://out-ventura-vpiw.vercel.app/',
+    image: '/projects/Outventura.jpg',
     highlight: 'Tugas Kuliah',
   },
 ];
