@@ -32,7 +32,7 @@ export const projects = [
   description:
     'Aplikasi web capstone project Dicoding untuk membantu menganalisis kelayakan ide bisnis berdasarkan modal, biaya operasional, harga jual, target pembeli, dan estimasi keuntungan. Aplikasi ini menampilkan hasil analisis seperti skor kelayakan, risiko, BEP, ROI, payback period, serta dashboard interaktif.',
   techStack: ['React.js', 'Express.js', 'Supabase', 'Tailwind CSS'],
-  githubUrl: '',
+  githubUrl: 'https://github.com/MAgSAsli/VentureCraft',
   demoUrl: 'https://venture-craft-96kf.vercel.app/',
   image: '/projects/VentureCraft.jpg',
   highlight: 'Capstone Project',
