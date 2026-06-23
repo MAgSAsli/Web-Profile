@@ -36,7 +36,7 @@ function About() {
 
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-1">
             <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-soft">
-              <p className="text-3xl font-extrabold text-cyan-600">4+</p>
+              <p className="text-3xl font-extrabold text-cyan-600">3+</p>
               <p className="mt-2 font-semibold text-slate-900">
                 Project Portfolio
               </p>
